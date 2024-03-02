@@ -27,8 +27,8 @@
 # print(test)
 
 #input 
-# input("Please write something: \n")
-# user_input = input("Can you write again: \n")
-# print(user_input * 10)
+input("Please write something: \n")
+user_input = input("Can you write again: \n")
+print(user_input * 10)
 
 
